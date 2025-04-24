@@ -26,6 +26,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AfroTechBoss&theme=onedark)](https://github.com/AfroTechBoss)
 
 ## 📊 Activity Graph
+![AfroTechBoss’s activity graph](https://<your-domain>/graph?username=AfroTechBoss&theme=react-dark)
+
+## 📊 Activity Graph
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AfroTechBoss&theme=react-dark" alt="AfroTechBoss’s activity graph" />
 </div>
