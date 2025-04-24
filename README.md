@@ -10,7 +10,7 @@
 
 # Hey there, I’m @AfroTechBoss 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AfroTechBoss?label=Follow&style=social)](https://twitter.com/AfroTechBoss)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AfroTechBoss?label=Follow&style=social)](https://twitter.com/0xAfroTechBoss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chidile-blue?logo=linkedin)](https://www.linkedin.com/in/AfroTechBoss)
 
 ## About Me
@@ -34,13 +34,13 @@
 | Project                                     | Description                             |
 |---------------------------------------------|-----------------------------------------|
 | [Phantom](https://github.com/AfroTechBoss/Something)      | Anonymous marketplace on Tor & IPFS      |
-| [ZK-Auth](https://github.com/AfroTechBoss/ZK-Auth)              | Zero-knowledge identity verification     |
+| [Honua](https://github.com/Honua-Org/Honua)              | Sustainability focused Social Media Platform   |
 | [MoneroPay](https://github.com/AfroTechBoss/MoneroPay)          | Lightning integration for Monero payments|
 
 ## 📫 Connect with Me
-- 🐦 Twitter: [@AfroTechBoss](https://twitter.com/AfroTechBoss)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/chidile-ozoemena-293688231/)  
-- 📧 Email: afrotechboss@example.com  
+- 🐦 Twitter: [@0xAfroTechBoss](https://twitter.com/0xAfroTechBoss)  
+- 💼 LinkedIn: [Chidile](https://www.linkedin.com/in/chidile-ozoemena-293688231/)  
+- 📧 Email: afrotechboss@yahoo.com
 
 ---
 
