@@ -11,7 +11,7 @@
 # Hey there, I’m @AfroTechBoss 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AfroTechBoss?label=Follow&style=social)](https://twitter.com/AfroTechBoss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AfroTechBoss-blue?logo=linkedin)](https://www.linkedin.com/in/AfroTechBoss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chidile-blue?logo=linkedin)](https://www.linkedin.com/in/AfroTechBoss)
 
 ## About Me
 - 🇳🇬 Naija-born dev with a passion for Web3 & decentralized apps  
