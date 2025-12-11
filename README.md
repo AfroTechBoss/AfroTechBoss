@@ -1,110 +1,43 @@
-# celefetch
+# Hey, I'm Chidile 👋
 
-```
-                                           :::::::-: ::
-                                     ::::.:::.::.:::::::::::
-                                 ::::::..........::..:..:::::::
-                               :::::.........::...:...::....::::::
-                             :::........:......................:::::
-                           .::.::..............:..............:...::::
-                          :::.................................:.:..:::::
-                         ::::.......:..............................::::::-
-                       .:...........................................:.:::::
-                      .:....................:::--::....................::::-
-                      ::.............:--==++++++======---:...............::-
-                     ..............-===++++++++++======-----:............::::
-                     :.........:..:=====+++++++++=====------::...........::::-
-                    .:.........:.:-======++++++++=====-------::.............:::
-                    .:..........:-====+++++++++++++====------:::.:........:.:::
-                    .:.....:....:=====------==++++==-:::.:::-:::..........:.:-:
-                    ..::........:========-----====--::::----::::...........:::--
-                    .............-===-==---:--===-::::----::::::...........:--:
-                     ...:........-==-:--.:=-===+=--:-==:.::.:::::..........:::-
-                     ........:-=:-========-=+==+=----==--::---:::.::.......:::
-                      .......::-=-==++**+++++=+++-----=====---:::::::......:--
-                      .......:-==-==++*****+==+*+=----======--:::::::......::
-                       :......-=--==+++****+++===-----=====--::==::::.....:-
-                         ......-==-==++++**=----::..:::==---::-*-:::.....::-
-                         .......**--===++++++++++*+=---=---:::=#--=....:::
-                          ......:.:--===+++=+=====--------:::-++.....::-:
-                             ......:---===-::---:::::::--:::-+*:....:::
-                               .....:---=====+++++=--::-:::-=+=..::::
-                                  ...:---==-------::::::::-=+-:::
-                                      :---====+==---::::-=*:..
-                                        :--=======---:--::+*
-                                  #+-------::---::::::::::+-::::------*%
-                                 %#-:=#=--==-:::::::::::::+------:::-=*%
-                               #%%%=-#%-:=====--::::::::::=-::--=====+*%
-                               %%%%%+#%+===+++==-::::::::::::---==++++*%%
-                              %%%%%@%#%#===++++=--::::::::::==+***+++**%@
-                             %%%%@@@@@%%#%*++++===-::::::-=+#%%#**###**#%@
-                             ****#%%%@@@%%@@@#*+====--+***%%%*#%###*****%%%
-                           %%%%%%%*=+*#%%%%%@@@@@@@@@@@%%%##%##**+======+*#
-                        %%%%%%%%%%%%%%*++*#*=#%@@@@@@@@%=##*+=------===++*#%
-                     %%%@@@@@@@@@@@%%@@@@%%*-=#%#%@@%%*+:-+==+*##*#%%%%%%%%%%%%
-                   %%@@@@@@@@@@@@@@@@@%%@@@@*-#%#####%%%**%++%%%%%%%%%%%%%%%%%%%%
-                  %@%@@@@@@@@@@@@@@@@@@@@%%%#-*%%%%@%%%%*+%++#%%%%%%%%%%%%%%%%##*%%
-                 %%%%@@@@@@@@@@@@@@@@@@@@@@@%-=%%%%%%%%%#+%*+#%%%%%%%%%%%%%%%%#**##%
-                %%%%%%@@@@@@@@@@@@@@@@@@@@@@%-=#%%%@@@@@%+%*+#%%%%%%%%%%%%%%%#*****#
-                %%%%%%%%%%@@@@@@@@@@@@@@@@@@%==#%%%@@@@@%+%++%%%%%%%%%%%%%%%*+***++*#
-               %%%%%%%%%%%%@@@@@@@@@@@@@@@@@%==#%%@@@@@@%+#+*%%%%%%%%%%%%%%#+****+++*#
-               %%%%%%%%%%%%%@@@@@@@@@@@@@@@@%-=#%%@@@@@@%+*+%%%%%%%%%%%%%%#+=*#**++++*
-              %%%%%%%%%%%%%%%%@@%#@+=++=##==#:.-=-*#-+*+%=::*%++%#######%#*==##**++++++
-              %%%%%%%%%%%%%%%%%%*+#=*#++++%%-::##=*=@%#=*-:=-+*%-++#-*####*=+##**+++=+*
-              %%%%%%#%%#%%%%%%%%++*=#%++**##=::##+%=%%#=%=:*==*%=*+=*=+##*+=+##**++=++*
-             #%%%%%%%###%%%%%%%#%%##%%%%%%##*:+%%#%%#%%#%=-+##*+*+=+==****+=*##*++++***
-             #%%%%%%%%###%%%%%%%%%%%%%%%%%%%*:+%%%%%%%%%%=-*%%##***+******==##*++**###*
-             #%%%%%%%%###%%%%%%%%%%%%%%%%%%%*:+%%%%%%%%%%=-*%##****++****+==*++*######+
-```
+I build things that solve real problems. Currently shipping full-stack apps from Lagos 🇳🇬
 
-## cele@italy
-```
-Uptime:          18 years
-Languages:       Python, C++
-OS:              Arch Linux
-DE:              KDE Plasma
-WM:              i3
-Shell:           Zsh
-Editor:          Vim/VSCode
-Hobby:           Hip Hop, Football, Gaming
-Achievements:    2021 OII Finalist (Olimpiadi Italiana di Informatica)
-```
+## What I'm Building Right Now
+
+**Helloaca** - An AI-powered contract analyzer for Freelancers and Solopreneurs
+`React` `Node.js` `MongoDB` • [Live Demo](https://helloaca.xyz) • [Source](https://helloaca.xyz/about)
+
+**Honua** - An eco-friendly social media platform for community building 
+`TypeScript` `PostgreSQL` `AWS` • [Case Study](https://beta.honua.green)
+
+**OnlyDust** - Contributing to OnlyDust projects to improve Smart Contract Security.
+
+## The Stack I Actually Use Daily
+
+**Frontend:** React/Next.js, TypeScript, Tailwind  
+**Backend:** Node.js, Express, PostgreSQL  
+**Smart Contracts:** Solidity, Rust, Move, Cairo  
+**Tools:** Docker, AWS, Git, Hardhat, Foundry
+
+Not interested in listing every framework I've touched once. These are my weapons of choice for production work.
+
+## Background
+
+Former CTO at Honua Ecosystem. Now focused on building scalable web applications that solves real-world problem. I'm particularly interested in web3/blockchain security.
+
+Recent wins:
+- 330 Contributions in 2025
+- 89 Smart Contracts Deployed
+- 25 Smart Contract Audits
+
+## Let's Connect
+
+Working on something interesting? Need a collaborator? Have a problem to solve?
+
+**Business:** afrotechboss@yahoo.com  
+**Twitter/X:** [@0xAfroTechBoss](https://x.com/0xAfroTechBoss)  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/chidileozoemena/)
 
 ---
 
-## Tech Stack
-
-**Languages**
-- Python
-- C++
-
-**Tools & Environment**
-- Arch Linux
-- KDE Plasma / i3wm
-- Vim / VSCode
-- Zsh
-
-**Currently Learning**
-- [Add what you're currently working on]
-
----
-
-## Featured Projects
-
-[Add your best 3-5 repositories here with brief descriptions and links]
-
----
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
----
-
-## Contact
-
-- **Telegram:** t.me/alessiocelentano
-- **Reddit:** u/alessiocelentano
-- **Email:** alessiocelentano2003@gmail.com
+<sub>Lagos → Global Impact</sub>
