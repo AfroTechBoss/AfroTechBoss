@@ -34,7 +34,7 @@ Recent wins:
 
 Working on something interesting? Need a collaborator? Have a problem to solve?
 
-**Business:** afrotechboss@yahoo.com  
+**Telegram:** [@AfroTechBoss](https://t.me/afrotechboss)
 **Twitter/X:** [@0xAfroTechBoss](https://x.com/0xAfroTechBoss)  
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chidileozoemena/)
 
